@@ -1,6 +1,6 @@
 [project]
 name = "skip-list-lib"
-version = "0.1.0"
+version = "0.1.1"
 description = "Sorted map using probabilistic balancing for expected O(log n) search, insert, and delete."
 requires-python = ">=3.10"
 dependencies = []
